@@ -1,6 +1,6 @@
 # 🖥️ Browser History Manager (C++)
 
-A colorful, menu-driven console application in C++ that simulates browser history management for multiple users.  
+A colorful, menu-driven console application in **C++** that simulates browser history management for multiple users.  
 Supports both normal users (can only view their own history) and admin users (can view everyone’s history).
 
 ---
